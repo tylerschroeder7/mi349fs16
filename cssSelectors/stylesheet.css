@@ -1,0 +1,46 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #666666;
+  margin: 0;
+  padding:0;
+}
+
+#pgoneheader {
+  background: #993399;
+  font-family: Times, serif;
+  padding: 15px;
+  text-align: center;
+  margin: 45px;
+  border-style: ridge;
+  border-color: #000000;
+
+}
+
+#pgtwoheader {
+  background: #000066;
+  font-family: monoscope;
+  padding: 45px;
+  text-align: left;
+  margin: 15px;
+  border-style: double;
+  border-color: #00cc00;
+  color: #ffffff;
+
+}
+
+.paragraph {
+  background: #b3d9ff;
+  color: #000000;
+  font-family: sans-serif;
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: 50px;
+  padding: 45px;
+  border-style: groove;
+  border-color: #000000;
+  border-radius: 25px;
+
+}
