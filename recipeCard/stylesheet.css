@@ -1,0 +1,56 @@
+body {
+  background: linear-gradient(135deg, black, aqua);
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.2);
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 1em;
+  text-align: left;
+  width: 450px;
+  
+}
+
+.card--avatar {
+  border-radius: 20%;
+  border: 5px solid #fff;
+  box-shadow: 0 -10px 20px rgba(0,0,0,0.2);
+  margin-top: -60px;
+}
+
+.card--header {
+  color: #2c3e50;
+  font-size: 3.2em;
+  font-weight: 100;
+  margin: 0;
+}
+
+.card--title {
+  color: #95a5a6;
+  margin: 0.2em 0 0 0;
+}
+
+.card--social-links {
+  margin: 1em 0 0 0;
+  padding: 0;
+}
+
+.card--social-links li {
+  list-style-type: none;
+  padding: 1em;
+}
+
+.card--social-links a {
+  color: #4aa3df;
+  font-size: 2em;
+}
+
+.card--social-links a:hover {
+  color: #9b59b6;
+}
