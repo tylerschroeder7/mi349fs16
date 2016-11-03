@@ -1,0 +1,40 @@
+-Header-
+		
+	Title-CheckPoint Entertainment
+	Navigation Bar
+		New, Top Sellers, Browse Products
+	Search Bar
+	My Account
+		Sign in, Settings, My Cart
+
+-Body-
+
+	*List of products to buy/sell depending on what page you are on*
+		-Product info page-
+			-about the product
+			-price
+			-rating
+			-condition
+		-Buy Page-
+		-Sell Page-
+	
+
+-Footer-
+	-About us-
+		CheckPoint Entertainment is a company made by the gamers, for the gamers.
+		We understand the struggles of trying to keep up with the latest products
+		from all the developers and companies out there. Our goal is to provide the
+		customer with the most value for their gaming and entertainment needs. We
+		want to develop a community of users that are connected and friendly through
+		our business. We aim to compete with other game trading companies out there
+		and provide the best selection of games from multiple generations.
+		Gamers should not feel like they are being robbed when they
+		make a new software or hardware purchase, and we want to ensure that you
+		wont if you shop with us.
+	-Contact us-
+		Email: @--------
+		Phone: (***)***-****
+		Store Location (__________)
+	Map
+
+	
