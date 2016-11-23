@@ -1,0 +1,3 @@
+Style Tiles and Web comp
+
+	The two styles I had come up with were similar but varied mostly on the two different color schemes. Both incorporated white, black, and gray, and a shade of green. The style 1 incorporated a bright yellow as well. The reason I decided to go with style 2 was because I felt it had more of a retro gaming feel to it. The bright green on black backdrop gives an old computer feel and the combination of purple gives it a buzz lightyear spacey feel which I liked a lot compared to the yellow and green. They also contrast very well with the each other which allows it to read well on the site. I went with a simple logo design for the top right menu and may or may not add in text to help the user with functionality. 
