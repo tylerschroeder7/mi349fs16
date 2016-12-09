@@ -1,0 +1,29 @@
+-Header-
+		
+	Title-CheckPoint Entertainment
+	Navigation Bar
+		Home, What's New, Browse About Us
+
+-Body-
+
+	*List of products to buy/sell depending on what page you are on*
+		-Product info page-
+			-about the product
+			-price
+			-condition
+			-genre
+		-Buy Page-
+		-Sell Page-
+	-Welcome Page
+	-What's New Page
+	-Brose Page
+	-About Us page
+		(javascipt link to contact info)
+	
+
+-Footer-
+	
+	-Title
+
+
+	
